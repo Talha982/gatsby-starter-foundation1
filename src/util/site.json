@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Directed Energy Deposition",
-    "titleTemplate": "%s",
-    "description": "© Talha Muslim 2021. Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole.",
+    "titleTemplate": "%q",
+    "description": "© Talha Muslim 2021. Built with Gatsby and Netlify CMS. Made with ❤by Stackrole.",
     "siteUrl": "https://foundation.stackrole.com",
     "image": "/assets/logo.png",
     "iconimage": "/assets/website-icon.png",
