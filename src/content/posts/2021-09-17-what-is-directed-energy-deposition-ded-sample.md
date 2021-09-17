@@ -4,7 +4,7 @@ title: What is Directed Energy Deposition (DED) (Sample)?
 slug: /What-is-Directed-Energy-Deposition
 date: 2021-09-17 12:55
 description: what is directed energy deposition?
-featuredImage: https://i.ytimg.com/vi/oL7bMhPTtDI/maxresdefault.jpg
+featuredImage: http://amtrg.com/wp-content/uploads/2020/09/direct-energy-deposition.jpg
 ---
 # What is DED?
 
