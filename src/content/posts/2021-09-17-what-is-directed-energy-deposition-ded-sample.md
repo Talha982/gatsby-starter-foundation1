@@ -18,9 +18,7 @@ DED processes direct energy into a narrow, focused region to heat a substrate, m
 
 Commercial DED processes include using a laser or electron beam to melt powders or wires. In many ways, DED techniques can be used in an identical manner to laser cladding and plasma welding machines. For the purposes of this chapter, however, DED machines are considered those which are designed to create complex 3D shapes directly from CAD ﬁles, rather than the traditional welding and cladding technologies, which were designed for repair, joining, or to apply coatings and do not typically use 3D CAD data as an input format.
 
-1.
-
-![What is DED](https://eklemeliimalat.net/wp-content/uploads/2020/02/Powder-DED-diagram.png "DED Process?")
+![sample Image](https://eklemeliimalat.net/wp-content/uploads/2020/02/Powder-DED-diagram.png "Royal Mail from Unsplash")
 
 1. d
 2. gg
