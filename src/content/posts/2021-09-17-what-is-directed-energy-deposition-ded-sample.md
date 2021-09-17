@@ -4,7 +4,7 @@ title: What is Directed Energy Deposition (DED) (Sample)?
 slug: /What-is-Directed-Energy-Deposition
 date: 2021-09-17 12:55
 description: what is directed energy deposition?
-featuredImage: http://amtrg.com/wp-content/uploads/2020/09/direct-energy-deposition.jpg
+featuredImage: /assets/download.jpg
 ---
 # What is DED?
 
@@ -18,8 +18,10 @@ DED processes direct energy into a narrow, focused region to heat a substrate, m
 
 Commercial DED processes include using a laser or electron beam to melt powders or wires. In many ways, DED techniques can be used in an identical manner to laser cladding and plasma welding machines. For the purposes of this chapter, however, DED machines are considered those which are designed to create complex 3D shapes directly from CAD ﬁles, rather than the traditional welding and cladding technologies, which were designed for repair, joining, or to apply coatings and do not typically use 3D CAD data as an input format.
 
-[<https://www.youtube.com/watch?v=u8EZ4ArCmHA&ab_channel=SGPLabs>](<https://www.youtube.com/watch?v=u8EZ4ArCmHA&ab_channel=SGPLabs>)
+1.
 
-![What is DED](https://eklemeliimalat.net/wp-content/uploads/2020/02/Powder-DED-diagram.png "What is DED")
+![What is DED](https://eklemeliimalat.net/wp-content/uploads/2020/02/Powder-DED-diagram.png "DED Process?")
 
-[](https://www.youtube.com/watch?v=u8EZ4ArCmHA&ab_channel=SGPLabs)[](https://www.youtube.com/watch?v=u8EZ4ArCmHA&ab_channel=SGPLabs)
+1. d
+2. gg
+3. gg[](https://www.youtube.com/watch?v=u8EZ4ArCmHA&ab_channel=SGPLabs)[](https://www.youtube.com/watch?v=u8EZ4ArCmHA&ab_channel=SGPLabs)
